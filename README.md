@@ -1,3 +1,7 @@
+## Understanding
+-- This project(Codeigniter 4) is install by composer. But there is many other installation method
+-- Codeigniter Documentation: https://codeigniter.com/userguide3/installation/index.html
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
